@@ -3,7 +3,7 @@
  *
  * Company identity verified against the Australian Business Register:
  * PA CLEANING PTY LTD, an active Australian private company, registered
- * address 9 Wordsworth Place, Delahey VIC 3037. (The ABN/ACN are deliberately
+ * address Adelaide CBD, South Australia 5000. (The ABN/ACN are deliberately
  * not published on the site — keep them out of components.)
  *
  * NOTE FOR CLIENT REVIEW: entries marked `// placeholder` are reasonable
@@ -20,9 +20,9 @@ export const site = {
   whatsappHref: "https://wa.me/61415121566",
   email: "saclean.au@gmail.com",
   emailHref: "mailto:saclean.au@gmail.com",
-  addressLine: "9 Wordsworth Place",
-  addressSuburb: "Delahey VIC 3037",
-  address: "9 Wordsworth Place, Delahey VIC 3037",
+  addressLine: "Adelaide CBD",
+  addressSuburb: "South Australia 5000",
+  address: "Adelaide CBD, South Australia 5000",
   hours: [
     { days: "Monday – Friday", time: "7:00am – 7:00pm" }, // placeholder
     { days: "Saturday", time: "8:00am – 5:00pm" }, // placeholder
